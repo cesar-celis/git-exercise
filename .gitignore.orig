@@ -1,0 +1,8 @@
+<<<<<<< HEAD
+secret.txt
+*.txt
+=======
+secret.txt
+*.txt
+>>>>>>> d71564d3e9e3a6a85b6890f4e617c390eeb9944b
+secret/*
